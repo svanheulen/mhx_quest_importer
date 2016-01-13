@@ -1,0 +1,11 @@
+This homebrew can be used to import/export DLC quest directly from your Monster
+Hunter X save file.
+
+WARNING: This hasn't been extensively tested yet, always make a backup of your
+save file before importing quests.
+
+You can report issues, get the latest version, and view the source at:
+  https://github.com/svanheulen/mhx_quest_importer
+
+A compiled version can be found at:
+  https://github.com/svanheulen/mhx_quest_importer/releases
