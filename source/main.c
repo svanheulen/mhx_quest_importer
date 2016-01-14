@@ -156,8 +156,8 @@ void import_quests() {
                     printf("\x1b[31;1mfailure.\x1b[0m\n");
                     refresh();
                 }
+                file_ids[j] = 0;
             }
-            file_ids[j] = 0;
         }
         offset += 0x1400;
     }
